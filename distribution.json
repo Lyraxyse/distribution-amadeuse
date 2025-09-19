@@ -4,8 +4,8 @@
     {
       "id": "Amadeuse-1.21.1",
       "name": "Amadeuse",
-      "description": "'Serveur",
-      "icon": "%DISTRO_BASE%/icon.png",
+      "description": "Serveur Amadeuse",
+      "icon": "https://lyraxyse.github.io/distribution-amadeuse/icon.png",
       "version": "0.1.0",
       "address": "amadeuse.mine.fun:25568",
       "minecraftVersion": "1.21.1",
@@ -49,7 +49,7 @@
           "artifact": {
             "size": 22312095,
             "MD5": "f8c448e014c63a6fb8b37b61a1e635fd",
-            "url": "%DISTRO_BASE%/mods/BiomesOPlenty-forge-1.21.1-21.1.0.12.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/BiomesOPlenty-forge-1.21.1-21.1.0.12.jar"
           }
         },
         {
@@ -59,7 +59,7 @@
           "artifact": {
             "size": 314232,
             "MD5": "3a46080b52e425a48f741c3b499f6bf4",
-            "url": "%DISTRO_BASE%/mods/Bookshelf-forge-1.21.1-21.1.59.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/Bookshelf-forge-1.21.1-21.1.59.jar"
           }
         },
         {
@@ -69,7 +69,7 @@
           "artifact": {
             "size": 934732,
             "MD5": "c8175232e3316ff51c6836839c9a714b",
-            "url": "%DISTRO_BASE%/mods/collective-1.21.1-8.3.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/collective-1.21.1-8.3.jar"
           }
         },
         {
@@ -79,7 +79,7 @@
           "artifact": {
             "size": 621806,
             "MD5": "c8af6c36f23ffb6b39c93e9a199c22a4",
-            "url": "%DISTRO_BASE%/mods/decorativecovers%201.21.1%20-%20v1.0%20-%20Forge.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/decorativecovers%201.21.1%20-%20v1.0%20-%20Forge.jar"
           }
         },
         {
@@ -89,7 +89,7 @@
           "artifact": {
             "size": 4834260,
             "MD5": "a532997fdbd548e01cd531fcafaee4c4",
-            "url": "%DISTRO_BASE%/mods/decorativelattices%201.21.1%20-%201.0%20Forge.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/decorativelattices%201.21.1%20-%201.0%20Forge.jar"
           }
         },
         {
@@ -99,7 +99,7 @@
           "artifact": {
             "size": 406199,
             "MD5": "66fa3b44792d77dfaa7a223c0d3a1b51",
-            "url": "%DISTRO_BASE%/mods/decorativepaths%201.21.1%20-%20v1.2%20-%20Forge.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/decorativepaths%201.21.1%20-%20v1.2%20-%20Forge.jar"
           }
         },
         {
@@ -109,7 +109,7 @@
           "artifact": {
             "size": 1663624,
             "MD5": "f92e273dacf1b67ce17cba2a0a02f4b7",
-            "url": "%DISTRO_BASE%/mods/Decorativepavers%201.21.1%20-%20v1.1%20-%20Forge.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/Decorativepavers%201.21.1%20-%20v1.1%20-%20Forge.jar"
           }
         },
         {
@@ -119,7 +119,7 @@
           "artifact": {
             "size": 1230820,
             "MD5": "9974baae89f9c0b919ef53bb32ada39e",
-            "url": "%DISTRO_BASE%/mods/decorativerailings%201.21.1%20-%20v1.0%20-%20Forge.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/decorativerailings%201.21.1%20-%20v1.0%20-%20Forge.jar"
           }
         },
         {
@@ -129,7 +129,7 @@
           "artifact": {
             "size": 3814023,
             "MD5": "693f3310c3860aa40af828ad6e969c82",
-            "url": "%DISTRO_BASE%/mods/Decorativeterracottalattices%201.21.1%20-%201.0%20Forge.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/Decorativeterracottalattices%201.21.1%20-%201.0%20Forge.jar"
           }
         },
         {
@@ -139,7 +139,7 @@
           "artifact": {
             "size": 81819,
             "MD5": "0f24fa6c1527aebe4f8c9b43545788a4",
-            "url": "%DISTRO_BASE%/mods/EnchantmentDescriptions-forge-1.21.1-21.1.8.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/EnchantmentDescriptions-forge-1.21.1-21.1.8.jar"
           }
         },
         {
@@ -149,7 +149,7 @@
           "artifact": {
             "size": 934594,
             "MD5": "e23139ea240950fe52054547db57ec1d",
-            "url": "%DISTRO_BASE%/mods/enchantments-encore-1.8.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/enchantments-encore-1.8.jar"
           }
         },
         {
@@ -159,7 +159,7 @@
           "artifact": {
             "size": 654374,
             "MD5": "472280cfaa1fcb881ac72ba42d49be2c",
-            "url": "%DISTRO_BASE%/mods/entity_model_features_1.21-forge-3.0.1.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/entity_model_features_1.21-forge-3.0.1.jar"
           }
         },
         {
@@ -169,7 +169,7 @@
           "artifact": {
             "size": 882834,
             "MD5": "c891124c61cdacf14bfe97e0f94cca5d",
-            "url": "%DISTRO_BASE%/mods/entity_texture_features_1.21-forge-7.0.2.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/entity_texture_features_1.21-forge-7.0.2.jar"
           }
         },
         {
@@ -179,7 +179,7 @@
           "artifact": {
             "size": 53924247,
             "MD5": "1cb31682be8b677ff64d9bff1bf7e38c",
-            "url": "%DISTRO_BASE%/mods/Essential_1-3-9-1_forge_1-21-1.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/Essential_1-3-9-1_forge_1-21-1.jar"
           }
         },
         {
@@ -189,7 +189,7 @@
           "artifact": {
             "size": 88477,
             "MD5": "11b4bf90bf87182d5ad5fb005ef3c4ff",
-            "url": "%DISTRO_BASE%/mods/GlitchCore-forge-1.21.1-2.1.0.0.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/GlitchCore-forge-1.21.1-2.1.0.0.jar"
           }
         },
         {
@@ -199,7 +199,7 @@
           "artifact": {
             "size": 4267528,
             "MD5": "37793d374c89e38074bde664fe36df59",
-            "url": "%DISTRO_BASE%/mods/Incendium_1.21.x_v5.4.4.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/Incendium_1.21.x_v5.4.4.jar"
           }
         },
         {
@@ -209,7 +209,7 @@
           "artifact": {
             "size": 1450261,
             "MD5": "67fccad31de48480078fc047b282cc5e",
-            "url": "%DISTRO_BASE%/mods/jei-1.21.1-forge-19.21.2.313.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/jei-1.21.1-forge-19.21.2.313.jar"
           }
         },
         {
@@ -219,7 +219,7 @@
           "artifact": {
             "size": 965908,
             "MD5": "c108c47f8188f232dffa39aef1af3973",
-            "url": "%DISTRO_BASE%/mods/livingthings-forge-1.21.1-2.3.0.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/livingthings-forge-1.21.1-2.3.0.jar"
           }
         },
         {
@@ -229,7 +229,7 @@
           "artifact": {
             "size": 523987,
             "MD5": "6bc227ed8717a3891af3544dc0e0d0b2",
-            "url": "%DISTRO_BASE%/mods/Many%20More%20Ores%20and%20Crafts-forge-1.21.1-1.1.2.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/Many%20More%20Ores%20and%20Crafts-forge-1.21.1-1.1.2.jar"
           }
         },
         {
@@ -239,7 +239,7 @@
           "artifact": {
             "size": 365977,
             "MD5": "3e710f9d5ee653f44d64722751043105",
-            "url": "%DISTRO_BASE%/mods/more_mobs-v1.5.5-mc1.14-1.21.5-mod.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/more_mobs-v1.5.5-mc1.14-1.21.5-mod.jar"
           }
         },
         {
@@ -249,7 +249,7 @@
           "artifact": {
             "size": 84720,
             "MD5": "72aae788b0d25e0a9d3d36568a5fb9f8",
-            "url": "%DISTRO_BASE%/mods/PrickleMC-forge-1.21.1-21.1.11.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/PrickleMC-forge-1.21.1-21.1.11.jar"
           }
         },
         {
@@ -259,7 +259,7 @@
           "artifact": {
             "size": 120302,
             "MD5": "0df22050bc87086511d122ed9b3ec0ce",
-            "url": "%DISTRO_BASE%/mods/TerraBlender-forge-1.21.1-4.1.0.8.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/TerraBlender-forge-1.21.1-4.1.0.8.jar"
           }
         },
         {
@@ -269,7 +269,7 @@
           "artifact": {
             "size": 1909145,
             "MD5": "7b157c82ec62d4276320c1524e1733f7",
-            "url": "%DISTRO_BASE%/mods/tool-trims-packaged-v2.2.2b.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/tool-trims-packaged-v2.2.2b.jar"
           }
         },
         {
@@ -279,7 +279,7 @@
           "artifact": {
             "size": 43801,
             "MD5": "860a3819caa064c37c3ff33ab7e0d300",
-            "url": "%DISTRO_BASE%/mods/ToolsOfObsidian-forge-1.21.1-1.7.2.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/ToolsOfObsidian-forge-1.21.1-1.7.2.jar"
           }
         },
         {
@@ -289,7 +289,7 @@
           "artifact": {
             "size": 481723,
             "MD5": "4fc1ffec4e53851cf88e73b2174da10d",
-            "url": "%DISTRO_BASE%/mods/villager-guards-v1.1.3-1.21.1.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/villager-guards-v1.1.3-1.21.1.jar"
           }
         },
         {
@@ -299,7 +299,7 @@
           "artifact": {
             "size": 76821,
             "MD5": "e26d82a3f871de77cbb43fa8615e9614",
-            "url": "%DISTRO_BASE%/mods/villagernames-1.21.1-8.2.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/villagernames-1.21.1-8.2.jar"
           }
         },
         {
@@ -309,7 +309,7 @@
           "artifact": {
             "size": 397939,
             "MD5": "ffc277389cb8bed6669d32fcdfe732b7",
-            "url": "%DISTRO_BASE%/mods/YungsApi-1.21.1-Forge-5.1.6.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsApi-1.21.1-Forge-5.1.6.jar"
           }
         },
         {
@@ -319,7 +319,7 @@
           "artifact": {
             "size": 905667,
             "MD5": "406a3204cdf098627b073b6f6c9a82b2",
-            "url": "%DISTRO_BASE%/mods/YungsBetterDesertTemples-1.21.1-Forge-4.1.5.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsBetterDesertTemples-1.21.1-Forge-4.1.5.jar"
           }
         },
         {
@@ -329,7 +329,7 @@
           "artifact": {
             "size": 781946,
             "MD5": "45f607cc28ce9aa33709a903521b99c8",
-            "url": "%DISTRO_BASE%/mods/YungsBetterDungeons-1.21.1-Forge-5.1.4.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsBetterDungeons-1.21.1-Forge-5.1.4.jar"
           }
         },
         {
@@ -339,7 +339,7 @@
           "artifact": {
             "size": 397966,
             "MD5": "b4a1374bbf6a5dddb38b2d0cf4029f70",
-            "url": "%DISTRO_BASE%/mods/YungsBetterEndIsland-1.21.1-Forge-3.1.2.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsBetterEndIsland-1.21.1-Forge-3.1.2.jar"
           }
         },
         {
@@ -349,7 +349,7 @@
           "artifact": {
             "size": 795662,
             "MD5": "655860d82180bf2ea8f06f05b3e571cc",
-            "url": "%DISTRO_BASE%/mods/YungsBetterJungleTemples-1.21.1-Forge-3.1.2.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsBetterJungleTemples-1.21.1-Forge-3.1.2.jar"
           }
         },
         {
@@ -359,7 +359,7 @@
           "artifact": {
             "size": 493772,
             "MD5": "bfaa853c1a6b743a9e1bb4a9c19cce2f",
-            "url": "%DISTRO_BASE%/mods/YungsBetterMineshafts-1.21.1-Forge-5.1.1.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsBetterMineshafts-1.21.1-Forge-5.1.1.jar"
           }
         },
         {
@@ -369,7 +369,7 @@
           "artifact": {
             "size": 609468,
             "MD5": "9942b8488bb3eb9758f10b4547e75535",
-            "url": "%DISTRO_BASE%/mods/YungsBetterNetherFortresses-1.21.1-Forge-3.1.5.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsBetterNetherFortresses-1.21.1-Forge-3.1.5.jar"
           }
         },
         {
@@ -379,7 +379,7 @@
           "artifact": {
             "size": 1025424,
             "MD5": "c877df8a3cca10c44484186f3961acb4",
-            "url": "%DISTRO_BASE%/mods/YungsBetterOceanMonuments-1.21.1-Forge-4.1.2.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsBetterOceanMonuments-1.21.1-Forge-4.1.2.jar"
           }
         },
         {
@@ -389,7 +389,7 @@
           "artifact": {
             "size": 461103,
             "MD5": "ec15c9fcb83a9d7ea9ee4f593c94c497",
-            "url": "%DISTRO_BASE%/mods/YungsBetterStrongholds-1.21.1-Forge-5.1.3.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsBetterStrongholds-1.21.1-Forge-5.1.3.jar"
           }
         },
         {
@@ -399,7 +399,7 @@
           "artifact": {
             "size": 174620,
             "MD5": "0499a69fc4ea4d4e3e9e79c0acb843cd",
-            "url": "%DISTRO_BASE%/mods/YungsBetterWitchHuts-1.21.1-Forge-4.1.1.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsBetterWitchHuts-1.21.1-Forge-4.1.1.jar"
           }
         },
         {
@@ -409,7 +409,7 @@
           "artifact": {
             "size": 136758,
             "MD5": "95a3b042aee32729d1a1b792c73103ab",
-            "url": "%DISTRO_BASE%/mods/YungsBridges-1.21.1-Forge-5.1.1.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsBridges-1.21.1-Forge-5.1.1.jar"
           }
         },
         {
@@ -419,7 +419,7 @@
           "artifact": {
             "size": 198087,
             "MD5": "5fc15b803bfcfa73911675b2b6f536e0",
-            "url": "%DISTRO_BASE%/mods/YungsExtras-1.21.1-Forge-5.1.1.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/YungsExtras-1.21.1-Forge-5.1.1.jar"
           }
         },
         {
@@ -429,7 +429,7 @@
           "artifact": {
             "size": 804299,
             "MD5": "ace39a2d7162022ff7291f9e994b7777",
-            "url": "%DISTRO_BASE%/mods/geckolib-forge-1.21.1-4.8.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/geckolib-forge-1.21.1-4.8.jar"
           }
         },
         {
@@ -439,7 +439,7 @@
           "artifact": {
             "size": 289382,
             "MD5": "1800a9e90dfcb2c01b07a5bedd0711f8",
-            "url": "%DISTRO_BASE%/mods/ForgeConfigAPIPort-v21.1.4-1.21.1-Forge.jar"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/ForgeConfigAPIPort-v21.1.4-1.21.1-Forge.jar"
           }
         },
         {
@@ -450,7 +450,7 @@
             "size": 1335755,
             "MD5": "a6d42aa8858bf566dbf2f69ce1dc4f32",
             "path": "resourcepacks/Better-Leaves-9.3.zip",
-            "url": "%DISTRO_BASE%/resourcepacks/Better-Leaves-9.3.zip"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/resourcepacks/Better-Leaves-9.3.zip"
           }
         },
         {
@@ -461,7 +461,7 @@
             "size": 591615,
             "MD5": "32ac8940f4a2db5d4185109c0ad478b5",
             "path": "resourcepacks/FA+All_Extensions-v1.6.zip",
-            "url": "%DISTRO_BASE%/resourcepacks/FA%2BAll_Extensions-v1.6.zip"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/resourcepacks/FA%2BAll_Extensions-v1.6.zip"
           }
         },
         {
@@ -472,7 +472,7 @@
             "size": 815824,
             "MD5": "aa7093e69c3b4c071b0d07fcf7fc0cc1",
             "path": "resourcepacks/FreshAnimations_v1.10.1.zip",
-            "url": "%DISTRO_BASE%/resourcepacks/FreshAnimations_v1.10.1.zip"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/resourcepacks/FreshAnimations_v1.10.1.zip"
           }
         },
         {
@@ -483,7 +483,7 @@
             "size": 725928,
             "MD5": "b2f4bd2158ebabc8164126c58e8d3cc8",
             "path": "resourcepacks/MandalasGUI+Dakmode_1.21.6_v2.0.zip",
-            "url": "%DISTRO_BASE%/resourcepacks/MandalasGUI%2BDakmode_1.21.6_v2.0.zip"
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/resourcepacks/MandalasGUI%2BDakmode_1.21.6_v2.0.zip"
           }
         }
       ]
