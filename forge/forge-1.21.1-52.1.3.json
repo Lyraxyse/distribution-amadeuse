@@ -4,7 +4,7 @@
   "releaseTime": "2024-09-19T10:00:00+00:00",
   "time": "2024-09-19T10:00:00+00:00",
   "type": "release",
-  "mainClass": "net.minecraftforge.fml.loading.FMLLoader",
+  "mainClass": "net.minecraftforge.userdev.LaunchTesting",
   "arguments": {
     "game": [
       "--launchTarget",
