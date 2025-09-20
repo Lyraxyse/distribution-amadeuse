@@ -4,7 +4,7 @@
   "releaseTime": "2024-09-19T10:00:00+00:00",
   "time": "2024-09-19T10:00:00+00:00",
   "type": "release",
-  "mainClass": "net.minecraft.client.main.Main",
+  "mainClass": "cpw.mods.modlauncher.Launcher",
   "arguments": {
     "game": [
       "--launchTarget",
@@ -19,7 +19,15 @@
       "20230612.114412"
     ],
     "jvm": [
-      "-Djava.net.preferIPv4Stack=true"
+      "-Djava.net.preferIPv4Stack=true",
+      "-Dnet.minecraftforge.mergetool.version=1.1.5",
+      "-Dnet.minecraftforge.gradle.GradleStart.srg.srg-mcp",
+      "-Dnet.minecraftforge.gradle.GradleStart.bouncer=GradleStartCommon",
+      "-Dlegacy.debugClassLoading=true",
+      "-Dlegacy.debugClassLoadingSave=true",
+      "-Dlegacy.debugClassLoadingFiner=false",
+      "-Djava.system.class.loader=cpw.mods.modlauncher.system.LegacyClassLoader",
+      "-Dlog4j.configurationFile=${library_directory}/net/minecraftforge/forge/1.20.1-47.2.0/log4j2.xml"
     ]
   },
   "libraries": [
