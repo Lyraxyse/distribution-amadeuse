@@ -20,28 +20,6 @@
         }
       },
   "modules": [
-    {
-      "id": "net.minecraftforge:forge:1.20.1-47.2.0",
-      "name": "Forge 1.20.1-47.2.0",
-      "type": "ForgeHosted",
-      "artifact": {
-        "size": 0,
-        "MD5": "local",
-        "url": "local://forge-1.20.1-47.2.0"
-      },
-      "subModules": [
-        {
-          "id": "forge-1.20.1-47.2.0",
-          "name": "Forge 1.20.1-47.2.0",
-          "type": "VersionManifest",
-          "artifact": {
-            "size": 0,
-            "MD5": "local",
-            "url": "local://forge-1.20.1-47.2.0.json"
-          }
-        }
-      ]
-    },
         {
           "id": "resourcepack-Better-Leaves-9.3.zip",
           "name": "Better-Leaves-9.3.zip",
