@@ -32,6 +32,10 @@
           "id": "net.minecraftforge:forge:1.20.1-47.4.9",
           "name": "Minecraft Forge 1.20.1-47.4.9",
           "type": "ForgeHosted",
+          "required": [
+            "cpw.mods:bootstraplauncher:1.1.2",
+            "cpw.mods:securejarhandler:2.1.10"
+          ],
           "artifact": {
             "size": 6077090,
             "MD5": "00000000000000000000000000000000",
