@@ -1,16 +1,16 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.0",
   "servers": [
     {
-  "id": "Amadeuse-1.20.1",
-  "name": "Amadeuse",
-  "description": "Serveur Amadeuse",
-  "icon": "https://lyraxyse.github.io/distribution-amadeuse/icon.png",
-  "version": "0.1.0",
-  "address": "amadeuse.mine.fun:25568",
-  "minecraftVersion": "1.20.1",
-  "mainServer": true,
-  "autoconnect": true,
+      "id": "Amadeuse-1.20.1",
+      "name": "Amadeuse",
+      "description": "Serveur Amadeuse Forge 1.20.1",
+      "icon": "https://lyraxyse.github.io/distribution-amadeuse/icon.png",
+      "version": "0.1.0",
+      "address": "amadeuse.mine.fun:25568",
+      "minecraftVersion": "1.20.1",
+      "mainServer": true,
+      "autoconnect": true,
       "javaOptions": {
         "supported": ">=21",
         "suggestedMajor": 21,
@@ -19,7 +19,55 @@
           "minimum": 3072
         }
       },
-  "modules": [
+      "modLoaders": [
+        {
+          "id": "forge-1.20.1-47.2.0",
+          "type": "Forge"
+        }
+      ],
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.20.1-47.2.0",
+          "name": "Minecraft Forge 1.20.1-47.2.0",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 0,
+            "MD5": "00000000000000000000000000000000",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-forge-47.2.0",
+              "name": "Forge (1.20.1 version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 0,
+                "MD5": "00000000000000000000000000000000",
+                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "local.amadeuse:geckolib-forge-1-20-1-4-8:1",
+          "name": "geckolib-forge-1.20.1-4.8.jar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1039409,
+            "MD5": "8018719048a1f1c3a8cb9ecd8d109115",
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/geckolib-forge-1.20.1-4.8.jar"
+          }
+        },
+        {
+          "id": "local.amadeuse:geckolib-forge-1-20-1-4-8:1",
+          "name": "geckolib-forge-1.20.1-4.8.jar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1039409,
+            "MD5": "8018719048a1f1c3a8cb9ecd8d109115",
+            "url": "https://lyraxyse.github.io/distribution-amadeuse/mods/geckolib-forge-1.20.1-4.8.jar"
+          }
+        },
         {
           "id": "resourcepack-Better-Leaves-9.3.zip",
           "name": "Better-Leaves-9.3.zip",
