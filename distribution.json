@@ -22,7 +22,9 @@
       "modLoaders": [
         {
           "id": "forge-1.20.1-47.4.9",
-          "type": "Forge"
+          "type": "Forge",
+          "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
+          "version": "47.4.9"
         }
       ],
       "modules": [
@@ -31,7 +33,7 @@
           "name": "Minecraft Forge 1.20.1-47.4.9",
           "type": "ForgeHosted",
           "artifact": {
-            "size": 0,
+            "size": 6077090,
             "MD5": "00000000000000000000000000000000",
             "url": "https://lyraxyse.github.io/distribution-amadeuse/forge/forge-1.20.1-47.4.9-installer.jar"
           },
@@ -41,7 +43,7 @@
               "name": "Forge (1.20.1 version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 0,
+                "size": 16542,
                 "MD5": "00000000000000000000000000000000",
                 "url": "https://lyraxyse.github.io/distribution-amadeuse/forge/1.20.1-forge-47.4.9.json"
               }
